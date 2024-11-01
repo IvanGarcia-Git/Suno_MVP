@@ -47,6 +47,7 @@
 		"react-toastify": "^10.0.5",
 		"remixicon": "^4.3.0",
 		"yup": "^1.4.0",
+		"ziggy-js": "^2.3.1",
 		"zustand": "^4.5.4"
 	}
 }

@@ -30,3 +30,12 @@ createServer((page) =>
 		},
 	})
 )
+
+
+// ssr.tsx
+
+function route(name: string, params: Record<string, any>, absolute: boolean) {
+	// lógica para generar rutas o usar Ziggy
+}
+
+// Aquí tu lógica de SSR que usa la función `route`
