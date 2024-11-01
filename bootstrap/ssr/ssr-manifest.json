@@ -13,7 +13,7 @@
   ],
   "node_modules/laravel-vite-plugin/inertia-helpers/index.js": [],
   "node_modules/react-modern-drawer/dist/index.css": [
-    "/build/assets/Permissions-CA2mX3WM.js",
+    "/build/assets/Permissions-BEwag9jn.js",
     "/build/assets/Permissions-D1N3Y2AV.css"
   ],
   "resources/js/assets/img/blank-462x265.webp": [
@@ -31,7 +31,7 @@
     "/build/assets/PageHeader-M3dsieGA.js"
   ],
   "resources/js/components/Toastify.tsx": [
-    "/build/assets/Toastify-C9zJy1p3.js"
+    "/build/assets/Toastify-XEFKkM4t.js"
   ],
   "resources/js/components/form/ClassicInput.tsx": [
     "/build/assets/ClassicInput-ByqbGa8A.js"
@@ -46,25 +46,25 @@
     "/build/assets/useMediaManager-B4H2TCSK.js"
   ],
   "resources/js/components/topbar/ColorModeToggler.tsx": [
-    "/build/assets/Layout-B-4lKQH7.js"
+    "/build/assets/Layout-B-XKf_KX.js"
   ],
   "resources/js/components/topbar/ProfileDropdown.tsx": [
     "/build/assets/PageContent-BjQSMN_k.js"
   ],
   "resources/js/hooks/useColorMode.ts": [
-    "/build/assets/useColorMode-DIaHfFiE.js"
+    "/build/assets/useColorMode-CeUIIFZg.js"
   ],
   "resources/js/hooks/useCreateSong.ts": [
-    "/build/assets/Dashboard_OLD-CLJsKPKK.js"
+    "/build/assets/Dashboard_OLD-CwJdpsco.js"
   ],
   "resources/js/hooks/useGeneratePassword.ts": [
     "/build/assets/useGeneratePassword-C0QxrA1n.js"
   ],
   "resources/js/hooks/useGetQuota.ts": [
-    "/build/assets/Dashboard_OLD-CLJsKPKK.js"
+    "/build/assets/Dashboard_OLD-CwJdpsco.js"
   ],
   "resources/js/hooks/useGetSongs.ts": [
-    "/build/assets/Dashboard_OLD-CLJsKPKK.js"
+    "/build/assets/Dashboard_OLD-CwJdpsco.js"
   ],
   "resources/js/hooks/useUser.ts": [
     "/build/assets/blank-462x265-CaLUIvp7.js",
@@ -77,43 +77,43 @@
     "/build/assets/translations-CCbcAZo6.js"
   ],
   "resources/js/layouts/GuestLayout.tsx": [
-    "/build/assets/Welcome-QSlnF7d7.js"
+    "/build/assets/Welcome-CnZF10YQ.js"
   ],
   "resources/js/layouts/admin/corporate/Layout.tsx": [
-    "/build/assets/Layout-B-4lKQH7.js"
+    "/build/assets/Layout-B-XKf_KX.js"
   ],
   "resources/js/layouts/admin/corporate/components/Header.tsx": [
-    "/build/assets/Layout-B-4lKQH7.js"
+    "/build/assets/Layout-B-XKf_KX.js"
   ],
   "resources/js/layouts/admin/corporate/components/Sidebar.tsx": [
-    "/build/assets/Layout-B-4lKQH7.js"
+    "/build/assets/Layout-B-XKf_KX.js"
   ],
   "resources/js/layouts/admin/executive/Layout.tsx": [
-    "/build/assets/Layout-CWRRA9fY.js"
+    "/build/assets/Layout-Cwz7Slea.js"
   ],
   "resources/js/layouts/admin/executive/components/Header.tsx": [
-    "/build/assets/Layout-CWRRA9fY.js"
+    "/build/assets/Layout-Cwz7Slea.js"
   ],
   "resources/js/layouts/admin/executive/components/Sidebar.tsx": [
-    "/build/assets/Layout-CWRRA9fY.js"
+    "/build/assets/Layout-Cwz7Slea.js"
   ],
   "resources/js/pages/Dashboard.tsx": [
-    "/build/assets/Dashboard-Ck27-3XR.js"
+    "/build/assets/Dashboard-LGd-wL0z.js"
   ],
   "resources/js/pages/Dashboard_OLD.tsx": [
-    "/build/assets/Dashboard_OLD-CLJsKPKK.js"
+    "/build/assets/Dashboard_OLD-CwJdpsco.js"
   ],
   "resources/js/pages/Error.tsx": [
-    "/build/assets/Error-CH6aWY9P.js"
+    "/build/assets/Error-BUNl5qVG.js"
   ],
   "resources/js/pages/Welcome.tsx": [
-    "/build/assets/Welcome-QSlnF7d7.js"
+    "/build/assets/Welcome-CnZF10YQ.js"
   ],
   "resources/js/pages/admin/Settings.tsx": [
     "/build/assets/Settings-DPtJ0PdW.js"
   ],
   "resources/js/pages/admin/permissions/Permissions.tsx": [
-    "/build/assets/Permissions-CA2mX3WM.js",
+    "/build/assets/Permissions-BEwag9jn.js",
     "/build/assets/Permissions-D1N3Y2AV.css"
   ],
   "resources/js/pages/admin/permissions/components/CreateEditForm.tsx": [
@@ -126,10 +126,10 @@
     "/build/assets/PermissionsList-BWG8pHgY.js"
   ],
   "resources/js/pages/admin/roles/CreateEdit.tsx": [
-    "/build/assets/CreateEdit-heCK2yhN.js"
+    "/build/assets/CreateEdit-BqvcHOvO.js"
   ],
   "resources/js/pages/admin/roles/Roles.tsx": [
-    "/build/assets/Roles-Co6Rblbt.js"
+    "/build/assets/Roles-DHU2gu_E.js"
   ],
   "resources/js/pages/admin/roles/components/DeleteRole.tsx": [
     "/build/assets/DeleteRole-o_8CGC05.js"
@@ -138,16 +138,16 @@
     "/build/assets/RolesList-Dds8kLj3.js"
   ],
   "resources/js/pages/admin/users/AdministratorsList.tsx": [
-    "/build/assets/AdministratorsList-3qL3VIqj.js"
+    "/build/assets/AdministratorsList-CHGIkxTv.js"
   ],
   "resources/js/pages/admin/users/Create.tsx": [
-    "/build/assets/Create-BhFVKONR.js"
+    "/build/assets/Create-Di5vdzj9.js"
   ],
   "resources/js/pages/admin/users/Edit.tsx": [
-    "/build/assets/Edit-BvgBlSY4.js"
+    "/build/assets/Edit-DY0Vgp4k.js"
   ],
   "resources/js/pages/admin/users/UsersList.tsx": [
-    "/build/assets/UsersList-B2GKh0dL.js"
+    "/build/assets/UsersList-DnEiukVg.js"
   ],
   "resources/js/pages/admin/users/components/AdministratorsList.tsx": [
     "/build/assets/AdministratorsList-C52BD0tF.js"
@@ -159,7 +159,7 @@
     "/build/assets/FormBasicInformation-pRCqGFFq.js"
   ],
   "resources/js/pages/admin/users/components/FormPassword.tsx": [
-    "/build/assets/FormPassword-DedMApz4.js"
+    "/build/assets/FormPassword-nLLnpCr9.js"
   ],
   "resources/js/pages/admin/users/components/FormPersonalInformation.tsx": [
     "/build/assets/FormPersonalInformation-kKELjIRY.js"
@@ -174,37 +174,37 @@
     "/build/assets/UsersList-CqfN6wgV.js"
   ],
   "resources/js/pages/auth/ConfirmPassword.tsx": [
-    "/build/assets/ConfirmPassword-D9DlSRry.js"
+    "/build/assets/ConfirmPassword-DIPx-z2T.js"
   ],
   "resources/js/pages/auth/ForgotPassword.tsx": [
-    "/build/assets/ForgotPassword-BeYv2s4g.js"
+    "/build/assets/ForgotPassword-9ja3OCYt.js"
   ],
   "resources/js/pages/auth/Login.tsx": [
-    "/build/assets/Login-CjHbTk-f.js"
+    "/build/assets/Login-C1CZf88r.js"
   ],
   "resources/js/pages/auth/Register.tsx": [
-    "/build/assets/Register-DS6iqMVx.js"
+    "/build/assets/Register-JuFDKtrO.js"
   ],
   "resources/js/pages/auth/ResetPassword.tsx": [
-    "/build/assets/ResetPassword-D-TnQq4L.js"
+    "/build/assets/ResetPassword-BsxXdiNE.js"
   ],
   "resources/js/pages/auth/VerifyEmail.tsx": [
-    "/build/assets/VerifyEmail-CtJrXHra.js"
+    "/build/assets/VerifyEmail-udg2Qq6z.js"
   ],
   "resources/js/pages/auth/components/StatusMessage.tsx": [
     "/build/assets/StatusMessage-d87uA1AX.js"
   ],
   "resources/js/pages/auth/layout/AuthLayout1.tsx": [
-    "/build/assets/AuthLayout1-Dv8XLxe8.js"
+    "/build/assets/AuthLayout1-C16Ivg9u.js"
   ],
   "resources/js/pages/auth/layout/AuthLayout2.tsx": [
-    "/build/assets/AuthLayout2-2skAmo5S.js"
+    "/build/assets/AuthLayout2-KYBcCfjh.js"
   ],
   "resources/js/pages/auth/layout/AuthLayout3.tsx": [
-    "/build/assets/AuthLayout3-DXGl3gwa.js"
+    "/build/assets/AuthLayout3-BA46fmGL.js"
   ],
   "resources/js/pages/profile/Edit.tsx": [
-    "/build/assets/Edit-D9ZvF5WR.js"
+    "/build/assets/Edit-D-jbOo1F.js"
   ],
   "resources/js/pages/profile/components/DeleteAccount.tsx": [
     "/build/assets/DeleteAccount-DxGhn1MB.js"
@@ -222,16 +222,16 @@
     "/build/assets/FormProfessionalInformation-ByXrIygy.js"
   ],
   "resources/js/pages/profile/components/ProfileCard.tsx": [
-    "/build/assets/ProfileCard-DR2BAgZY.js"
+    "/build/assets/ProfileCard-D3ey07z4.js"
   ],
   "resources/js/pages/songs/Edit.tsx": [
-    "/build/assets/Edit-Ct4AfbED.js"
+    "/build/assets/Edit-N17IG0kr.js"
   ],
   "resources/js/pages/songs/components/Loader.tsx": [
     "/build/assets/Loader-CWPr1gAj.js"
   ],
   "resources/js/pages/songs/components/SongDetails.tsx": [
-    "/build/assets/SongDetails-BnM1FBIL.js"
+    "/build/assets/SongDetails-DI6d5BHI.js"
   ],
   "resources/js/pages/songs/components/Step0.tsx": [
     "/build/assets/Step0-D8PLHFZV.js"
@@ -256,7 +256,7 @@
   ],
   "resources/js/ssr.tsx": [],
   "resources/js/store/useMainStore.ts": [
-    "/build/assets/useMainStore-BNNQMtH2.js"
+    "/build/assets/useMainStore-BUSgmXnG.js"
   ],
   "vendor/tightenco/ziggy/dist/index.js": []
 }
